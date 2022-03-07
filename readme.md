@@ -1,0 +1,1 @@
+This is a simple nodejs script to update a dns with your public ip address.

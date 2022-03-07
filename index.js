@@ -38,4 +38,3 @@ axios.patch(`${cloudflare_base_url}/dns_records/${dns_list[0].id}`,
         "ttl": 1, // 1 = auto, 60+s otherwise
         "proxied": proxied
     }, cloudflare_config)
-    .then(console.log)

@@ -16,3 +16,6 @@ This is a simple nodejs script to update a dns with your public ip address.
 
 
 WIP. i'll finish this file asap :P
+
+
+ciao
